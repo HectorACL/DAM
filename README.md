@@ -8,7 +8,7 @@
 
 ## Egresado
 Universidad Tecnológica de México
-Licenciatura en Ingeniería en Electrónica y Comunicaciones
+- Licenciatura en Ingeniería en Electrónica y Comunicaciones
 
 ## Primer Tarea
 # App "hellofood"
